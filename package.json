@@ -1,0 +1,1 @@
+{ "dependencies": { "csv-parse": "^5.5.5", "fs": "^0.0.1-security", "nodemailer": "^6.9.11", "path": "^0.12.7" }, "devDependencies": { "@types/node": "^20.11.24" } }
