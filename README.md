@@ -19,13 +19,6 @@ This project is a script for sending welcome emails to users based on a CSV file
     - `FROM_EMAIL`: Email address to use as the sender.
 3. Run the script by executing `bun index.ts`.
 
-## CSV File Format
-
-The CSV file should have the following columns:
-- `1. How should we call you?`: User's name.
-- `2. What's your e-mail address?`: User's email address.
-- `Finished`: Set to `Yes` if the user should receive the welcome email.
-
 ## Email Template
 
 The welcome email template is defined in the `mailOptions` object in the code. You can customize the HTML content to fit your needs.
