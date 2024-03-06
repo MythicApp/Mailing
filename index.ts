@@ -34,6 +34,7 @@ fs.createReadStream(csvFilePath)
 
             const mailOptions = {
                 from: process.env.FROM_EMAIL,
+                name: process.env.FROM_NAME,
                 to: email,
                 subject: `Welcome to Mythic, ${name}!`,
                 html: `
