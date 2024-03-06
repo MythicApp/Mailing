@@ -21,7 +21,7 @@ This project is a script for sending welcome emails to users based on a CSV file
 
 ## Email Template
 
-The welcome email template is defined in the `mailOptions` object in the code. You can customize the HTML content to fit your needs.
+The welcome email template is defined in the `mailOptions` object under `html` in the code. You can customize the HTML content to fit your needs.
 
 ## Dependencies
 
