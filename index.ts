@@ -53,7 +53,7 @@ const sendEmail = async (name: string, email: string, sentEmails: Set<string>) =
         <div>
             <h2 style="margin-bottom: 10px;">Welcome to Mythic, ${name}!</h2>
             <p style="margin-bottom: 20px;">You've been invited as one of the first to join the universe of Windows gaming
-                on macOS through Mythic! Have fun and make sure to join the <a href="https://discord.gg/58NZ7fFqPy"
+                on macOS through Mythic! Have fun and make sure to join the <a href="https://discord.com/58NZ7fFqPy"
                     style="color: #007bff; text-decoration: none;">Discord server</a> for any updates or support/feedback.
             </p>
         </div>
